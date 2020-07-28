@@ -1,0 +1,7 @@
+{
+    "db": "mongodb://localhost/ebuy",
+    "port": 8080,
+    "secret": "ushev1312",
+    "saltRounds": 10
+    
+}
